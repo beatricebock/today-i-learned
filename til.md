@@ -2,10 +2,10 @@
 Repo of stuff I've picked up
 ---
 ## Nov 7
-`indexOf()`
-**Lang**: JavaScript
-**Purpose**: Finds the index/position of definted item(s) from an array 
-**Example use**: 
+`indexOf()`  
+**Lang**: JavaScript  
+**Purpose**: Finds the index/position of definted item(s) from an array   
+**Example use**:   
 ```javascript
 function findNeedle(haystack) {
   return "found the needle at position " + haystack.indexOf("needle");
