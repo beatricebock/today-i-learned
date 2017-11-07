@@ -1,6 +1,6 @@
 # today-i-learned  
-Repo of stuff I picked up
----
+#### Repo of stuff I picked up  
+---  
 ## Nov 7
 `indexOf()`  
 **Lang**: JavaScript  
