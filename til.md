@@ -1,5 +1,5 @@
-# today-i-learned
-Repo of stuff I've picked up
+# today-i-learned  
+Repo of stuff I picked up
 ---
 ## Nov 7
 `indexOf()`  
