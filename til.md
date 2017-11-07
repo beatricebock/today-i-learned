@@ -3,6 +3,7 @@
 ---  
 ## Nov 7
 `indexOf()`  
+**Learned from**: [Codewars](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c/solutions/javascript)  
 **Lang**: JavaScript  
 **Purpose**: Finds the index/position of definted item(s) from an array   
 **Example use**:   
