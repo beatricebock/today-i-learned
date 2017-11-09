@@ -16,8 +16,8 @@ const findNeedle = haystack => `found the needle at position ${haystack.indexOf(
 ```
 
 ## Nov 9  
-The `.` operator  
-**Learned from** [RegexOne](https://regexone.com/)  
+`.` operator  
+**Learned from**: [RegexOne](https://regexone.com/)  
 **Type**: Regular Expression  
 **Purpose**: Wildcard - matches any digit, letter, or whitespace  
 **Example use**:  
@@ -26,3 +26,15 @@ function replaceAny(a) {
   return a.replace(/./g, ' '); //finds any character in the object and replaces it with a space.
 }
 ```
+
+`@supports`   
+**Learned from**: [Aerolab](https://aerolab.co/blog/flexbox-grids/)  
+**Lang**: CSS  
+**Purpose**: Like a media query, but determines if the browser supports a certain feature.  
+**Example use**:
+```css
+@supports (display: grid) { //checks if broswer supports Grids
+  //grid css
+}
+```
+
