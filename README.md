@@ -3,6 +3,7 @@
 ---  
 ## Nov 7
 >`indexOf()`  
+
 **Learned from**: [Codewars](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c/solutions/javascript)  
 **Lang**: JavaScript  
 **Purpose**: Finds the index/position of definted item(s) from an array   
@@ -17,6 +18,7 @@ const findNeedle = haystack => `found the needle at position ${haystack.indexOf(
 
 ## Nov 9  
 >`.` operator  
+
 **Learned from**: [RegexOne](https://regexone.com/)  
 **Type**: Regular Expression  
 **Purpose**: Wildcard - matches any digit, letter, or whitespace  
@@ -28,6 +30,7 @@ function replaceAny(a) {
 ```
 
 >`@supports`   
+
 **Learned from**: [Aerolab](https://aerolab.co/blog/flexbox-grids/)  
 **Lang**: CSS  
 **Purpose**: Like a media query, but determines if the browser supports a certain feature.  
@@ -40,6 +43,7 @@ function replaceAny(a) {
 
 ## Nov 11 
 >`<inputs>` cannot have `:after`/`:before` pseudo elements  
+
 **Learned from**: [scottohara.me](http://www.scottohara.me/article/pseudo-element-input.html)  
 **Lang**: CSS
 
