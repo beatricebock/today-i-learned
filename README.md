@@ -41,10 +41,17 @@ function replaceAny(a) {
 }
 ```
 
-## Nov 11 
+## Nov 14 
 >`<inputs>` cannot have `:after`/`:before` pseudo elements  
 
 **Learned from**: [scottohara.me](http://www.scottohara.me/article/pseudo-element-input.html)  
 **Lang**: CSS
 
+
+## Nov 15  
+> How to fix the WYSIWYG editor (aka TinyMCE) on Wordpress; hosting permissions
+
+**Learned from**: [Stack Overflow](https://wordpress.stackexchange.com/questions/136738/how-to-fix-a-broken-visual-editor)  
+**Type**: Hosting  
+**Scenario**: TinyMCE stopped working; visual/text tab stopped responding. Console shows errors associated with TinyMCE's JavaScript. Turns out TinyMCE's php file (`wp-includes/js/tinymce/wp-tinymce.php`) had the wrong permissions. To fix, access host's CPanel and change file's permission to `655`.
 
