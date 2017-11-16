@@ -55,3 +55,15 @@ function replaceAny(a) {
 **Type**: Hosting  
 **Scenario**: TinyMCE stopped working; visual/text tab stopped responding. Console shows errors associated with TinyMCE's JavaScript. Turns out TinyMCE's php file (`wp-includes/js/tinymce/wp-tinymce.php`) had the wrong permissions. To fix, access host's CPanel and change file's permission to `655`.
 
+## Nov 16  
+> CSS Grid  
+
+**Resources**:
+- Basics - [Mozilla](https://mozilladevelopers.github.io/playground/css-grid)
+- References - [Learn CSS Grid](http://learncssgrid.com/)  
+- Use cases - [Grid by Example](https://gridbyexample.com/examples/example24/)
+- Use case with Flexbox - [Aerolab](https://aerolab.co/blog/flexbox-grids/)  
+
+**Lang**: CSS  
+**Purpose**: Layout, templating
+
