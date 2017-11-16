@@ -58,12 +58,15 @@ function replaceAny(a) {
 ## Nov 16  
 > CSS Grid  
 
+**Lang**: CSS  
+**Purpose**: Layout, templating  
 **Resources**:
 - Basics - [Mozilla](https://mozilladevelopers.github.io/playground/css-grid)
 - References - [Learn CSS Grid](http://learncssgrid.com/)  
-- Use cases - [Grid by Example](https://gridbyexample.com/examples/example24/)
+- Use cases  
+  - [Grid by Example](https://gridbyexample.com/examples/example24/)
+  - [CSS Tricks](https://css-tricks.com/things-ive-learned-css-grid-layout/)
 - Use case with Flexbox - [Aerolab](https://aerolab.co/blog/flexbox-grids/)  
 
-**Lang**: CSS  
-**Purpose**: Layout, templating
+
 
