@@ -65,8 +65,13 @@ function replaceAny(a) {
 - References - [Learn CSS Grid](http://learncssgrid.com/)  
 - Use cases  
   - [Grid by Example](https://gridbyexample.com/examples/example24/)
-  - [CSS Tricks](https://css-tricks.com/things-ive-learned-css-grid-layout/)
+  - [CSS-Tricks](https://css-tricks.com/things-ive-learned-css-grid-layout/)
 - Use case with Flexbox - [Aerolab](https://aerolab.co/blog/flexbox-grids/)  
 
+## Nov 17  
+> `object-fit`
 
+**Lang**: CSS  
+**Purpose**: Determines how a media item fits inside a box.  
+**Learned from**: [CSS-Tricks](https://css-tricks.com/almanac/properties/o/object-fit/)
 
