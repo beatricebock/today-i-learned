@@ -75,3 +75,9 @@ function replaceAny(a) {
 **Purpose**: Determines how a media item fits inside a box.  
 **Learned from**: [CSS-Tricks](https://css-tricks.com/almanac/properties/o/object-fit/)
 
+## Nov 27  
+> `<?php get_locale() ?>`
+
+**Lang**: PHP (Wordpress)  
+**Purpose**: Detects and prints string of current language.  
+
