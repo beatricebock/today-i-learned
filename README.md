@@ -88,3 +88,16 @@ function replaceAny(a) {
 **Purpose**: Adds a true-to-form drop shadow to objects  
 **Learned from**: [CSS-Tricks](https://css-tricks.com/breaking-css-box-shadow-vs-drop-shadow/)  
 
+> `:lang()`
+
+**Lang**: CSS  
+**Purpose**: A selector that allows for locale-specific styles.  
+**Learned from**: [W3Schools](https://www.w3schools.com/cssref/sel_lang.asp)  
+**Example use**: 
+```css
+//Make paragraphs red if locale/language is Chinese
+p:lang(cn) {
+  color: red;
+}
+```
+
