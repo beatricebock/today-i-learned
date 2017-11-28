@@ -69,7 +69,7 @@ function replaceAny(a) {
 - Use case with Flexbox - [Aerolab](https://aerolab.co/blog/flexbox-grids/)  
 
 ## Nov 17  
-> `object-fit`
+> `object-fit: fill | contain | cover | none | scale-down`
 
 **Lang**: CSS  
 **Purpose**: Determines how a media item fits inside a box.  
@@ -80,4 +80,11 @@ function replaceAny(a) {
 
 **Lang**: PHP (Wordpress)  
 **Purpose**: Detects and prints string of current language.  
+
+## Nov 28  
+> `filter: drop-shadow()`
+
+**Lang**: CSS  
+**Purpose**: Adds a true-to-form drop shadow to objects  
+**Learned from**: [CSS-Tricks](https://css-tricks.com/breaking-css-box-shadow-vs-drop-shadow/)  
 
