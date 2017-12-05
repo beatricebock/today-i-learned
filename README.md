@@ -101,3 +101,8 @@ p:lang(cn) {
 }
 ```
 
+## Dec 5  
+> `dir | Rename-Item -NewName {$((get-random).tostring()) + " - " + $_.Name}`
+
+**Type**: Powershell Script  
+**Purpose**: Prepends a random number to the original filenames of all files in the directory
