@@ -106,3 +106,17 @@ p:lang(cn) {
 
 **Type**: Powershell Script  
 **Purpose**: Prepends a random number to the original filenames of all files in the directory
+
+## Dec 12
+> `@include ('file.structure' . $variable->thing)`
+
+**Lang**: Laravel @ PHP  
+**Purpose**: Allows for variables to be passed into an `@include` function  
+**Example use**:
+```php
+    <div class="icon">
+        @include ('services.partials.icons.' . $service->slug )
+    </div>
+    <h3>{{ $service->name }}</h3>
+    <p>{{ $service->description }}</p>
+```
