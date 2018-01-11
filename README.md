@@ -120,3 +120,26 @@ p:lang(cn) {
     <h3>{{ $service->name }}</h3>
     <p>{{ $service->description }}</p>
 ```
+
+## Jan 11
+>`:first-letter`
+
+**Lang**: CSS  
+**Purpose**: Selects the first letter of an element.  
+**Example use**:  
+```css
+//simulates those big first letters in storybooks and magazines
+  p:first-letter {
+    font-weight: bold;
+    font-size: 8em;
+    float: left
+  }
+```
+**Learn more**: [CSS-Tricks](https://css-tricks.com/almanac/selectors/f/first-letter/)  
+**Demo**: [Dive into HTML](http://diveintohtml5.info/storage.html)  
+
+>`localStorage`
+
+**Lang**: JavaScript  
+**Purpose**: Handles objects stored in the browser for later use.  
+**Learn More**: [StackOverflow](https://stackoverflow.com/a/24189694)  
